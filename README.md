@@ -1,13 +1,6 @@
 # 📖 Automatic Novel Generation Tool
 
 [中文文档](./README_zh-CN.md) | English
-
-> ~~Currently I don't have much energy to maintain this project. The project brings no revenue, and with graduation approaching I have many other priorities. If time permits in the future I may consider a refactor using newer technologies. — 2025/09/24~~
->
->- ~~**(2026/03/09):** This project will be refactored soon, featuring modern implementations and fresh creative concepts.~~
->
-> **Update (2026/03/25):** The refactored version has completed initial development (only the main framework is done, features are not yet available) and will be uploaded to the dev branch within a week. Subsequent development will also be synchronized on the branch.
-
 <div align="center">
   
 ✨ **Core Features** ✨
